@@ -15,9 +15,5 @@ Este es un proyecto de una **calculadora de propinas** desarrollada con **React*
 - 🧠 [TypeScript](https://www.typescriptlang.org/)
 - ⚡ [Vite](https://vitejs.dev/)
 
-## 🚀 Cómo usar
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tip-calculator.git
-   cd tip-calculator
+## 🚀 Cómo se ve?
+[Interfaz de usuario](./img1.png)
