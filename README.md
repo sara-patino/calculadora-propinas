@@ -16,4 +16,5 @@ Este es un proyecto de una **calculadora de propinas** desarrollada con **React*
 - ⚡ [Vite](https://vitejs.dev/)
 
 ## 🚀 Cómo se ve?
+Netlify: https://gilded-pony-b4c0b7.netlify.app/
 ![Interfaz de usuario](./img1.png)
